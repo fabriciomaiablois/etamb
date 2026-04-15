@@ -1,0 +1,7 @@
+baseURL = 'https://etudoamesmabosta.autos/'
+languageCode = 'en-us'
+title = 'ETAMB'
+theme = 'etamb'
+
+[params]
+sitedescription = 'ETAMB'
